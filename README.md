@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Mohammad Owais</h1>
+<h1 align="center">Hi 👋, I'm Owais</h1>
 <h3 align="center">🚀 Full Stack Developer | 💻 Problem Solver | 📊 DSA Enthusiast</h3>
 
 ---
@@ -63,8 +63,3 @@
     <img src="https://img.shields.io/badge/Phone-green?style=for-the-badge&logo=whatsapp"/>
   </a>
 </p>
-
----
-
-## 🐍 Fun Animation
-![Snake animation](https://github.com/iamowais123/blob/output/github-contribution-grid-snake.svg)
