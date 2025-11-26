@@ -43,7 +43,6 @@
 ## 🌟 Top Projects
 - 🔗 [Portfolio Website](https://my-portfolio-livid-psi-37.vercel.app)  
 - 🔗 [Obys Agencies Clone](https://obysagenciesclone.netlify.app/)  
-- 🔗 [My-Todo](https://todo-app-next-js-phi.vercel.app/)
 - 🔗 [Premiere Vogue](https://mypremierevogue.netlify.app/)
 
 ---
