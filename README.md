@@ -67,7 +67,7 @@
 ## 💳 Payment Gateway
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=razorpay" height="60"/>
+  <img src="https://skillicons.dev/icons?i=razorpay,stripe" height="60"/>
 </p>
 
 ---
