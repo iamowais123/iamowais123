@@ -22,10 +22,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css" height="60"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
 ---
 
 ## ⚙️ Backend
