@@ -43,9 +43,8 @@
 ## 🚀 DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="65"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker" height="65"/>
 </p>
-
 ---
 
 ## 🧰 Other Tools
